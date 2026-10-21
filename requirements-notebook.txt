@@ -1,0 +1,4 @@
+# Optional Jupyter interface; includes all analysis dependencies.
+-r requirements.txt
+jupyterlab
+ipykernel
