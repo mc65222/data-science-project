@@ -1,0 +1,53 @@
+school_year,state,is_national,number_of_schools,reporting_coverage_pct,source_file,source_sheet,source_row,coverage_below_85_pct,total_allegations,sex,race,disability,sexual_orientation,religion
+2015-16,United States,True,96360,99.50083022,Allegations-of-Harassment-or-Bullying.xlsx,Total,7,False,135192,55579,30913,15345,22143,11212
+2015-16,Alabama,False,1400,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,8,False,1434,610,516,89,204,15
+2015-16,Alaska,False,503,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,9,False,58,26,17,4,11,0
+2015-16,Arizona,False,1977,99.69650986,Allegations-of-Harassment-or-Bullying.xlsx,Total,10,False,2780,1553,485,216,423,103
+2015-16,Arkansas,False,1092,99.81684982,Allegations-of-Harassment-or-Bullying.xlsx,Total,11,False,1222,598,405,102,108,9
+2015-16,California,False,10138,99.64490037,Allegations-of-Harassment-or-Bullying.xlsx,Total,12,False,18197,8899,3684,2117,2167,1330
+2015-16,Colorado,False,1868,89.61456103,Allegations-of-Harassment-or-Bullying.xlsx,Total,13,False,1162,710,268,61,105,18
+2015-16,Connecticut,False,1238,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,14,False,1017,505,255,112,98,47
+2015-16,Delaware,False,235,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,15,False,258,102,57,47,47,5
+2015-16,District of Columbia,False,221,48.86877828,Allegations-of-Harassment-or-Bullying.xlsx,Total,16,True,116,69,22,5,18,2
+2015-16,Florida,False,3952,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,17,False,149,36,37,29,34,13
+2015-16,Georgia,False,2407,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,18,False,1550,792,379,150,207,22
+2015-16,Hawaii,False,290,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,19,False,824,277,306,103,135,3
+2015-16,Idaho,False,720,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,20,False,1168,227,459,71,226,185
+2015-16,Illinois,False,4081,99.70595442,Allegations-of-Harassment-or-Bullying.xlsx,Total,21,False,19687,4961,4053,3145,4551,2977
+2015-16,Indiana,False,1879,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,22,False,2279,1086,522,230,344,97
+2015-16,Iowa,False,1365,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,23,False,1310,518,280,227,260,25
+2015-16,Kansas,False,1356,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,24,False,2046,902,302,121,669,52
+2015-16,Kentucky,False,1407,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,25,False,885,444,202,79,151,9
+2015-16,Louisiana,False,1367,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,26,False,448,208,135,50,53,2
+2015-16,Maine,False,589,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,27,False,581,262,158,44,103,14
+2015-16,Maryland,False,1434,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,28,False,514,249,108,70,76,11
+2015-16,Massachusetts,False,1873,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,29,False,1842,1011,402,210,161,58
+2015-16,Michigan,False,3616,99.97234513,Allegations-of-Harassment-or-Bullying.xlsx,Total,30,False,5081,2078,1196,701,878,228
+2015-16,Minnesota,False,2170,99.8156682,Allegations-of-Harassment-or-Bullying.xlsx,Total,31,False,5881,1952,1489,547,1039,854
+2015-16,Mississippi,False,978,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,32,False,731,432,146,52,83,18
+2015-16,Missouri,False,2372,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,33,False,3424,1671,939,473,308,33
+2015-16,Montana,False,825,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,34,False,954,369,389,83,93,20
+2015-16,Nebraska,False,1064,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,35,False,1217,382,306,125,87,317
+2015-16,Nevada,False,658,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,36,False,1252,527,284,180,239,22
+2015-16,New Hampshire,False,483,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,37,False,685,311,157,60,142,15
+2015-16,New Jersey,False,2577,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,38,False,5613,1527,2013,831,985,257
+2015-16,New Mexico,False,880,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,39,False,1255,942,106,93,77,37
+2015-16,New York,False,4916,99.85760781,Allegations-of-Harassment-or-Bullying.xlsx,Total,40,False,10791,5193,2843,784,1556,415
+2015-16,North Carolina,False,2618,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,41,False,2291,1861,165,38,218,9
+2015-16,North Dakota,False,481,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,42,False,227,97,80,13,27,10
+2015-16,Ohio,False,3631,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,43,False,2782,1138,777,316,365,186
+2015-16,Oklahoma,False,1815,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,44,False,1295,606,407,107,160,15
+2015-16,Oregon,False,1283,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,45,False,2612,1208,384,484,396,140
+2015-16,Pennsylvania,False,3027,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,46,False,4460,1566,965,699,785,445
+2015-16,Rhode Island,False,308,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,47,False,2016,297,344,361,524,490
+2015-16,South Carolina,False,1236,95.63106796,Allegations-of-Harassment-or-Bullying.xlsx,Total,48,False,988,433,330,107,106,12
+2015-16,South Dakota,False,688,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,49,False,268,179,35,27,24,3
+2015-16,Tennessee,False,1818,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,50,False,5703,1177,833,255,1824,1614
+2015-16,Texas,False,8616,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,51,False,3931,1722,941,336,619,313
+2015-16,Utah,False,1009,94.84638256,Allegations-of-Harassment-or-Bullying.xlsx,Total,52,False,2111,1074,499,243,108,187
+2015-16,Vermont,False,306,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,53,False,1106,585,216,110,180,15
+2015-16,Virginia,False,1971,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,54,False,1574,721,363,185,182,123
+2015-16,Washington,False,2305,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,55,False,3041,1393,639,359,378,272
+2015-16,West Virginia,False,720,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,56,False,1116,508,302,119,168,19
+2015-16,Wisconsin,False,2232,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,57,False,2996,1440,655,356,401,144
+2015-16,Wyoming,False,365,100.0,Allegations-of-Harassment-or-Bullying.xlsx,Total,58,False,264,145,58,19,40,2

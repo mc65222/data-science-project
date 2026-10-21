@@ -1,0 +1,937 @@
+school_year,state,is_national,number_of_schools,reporting_coverage_pct,source_file,source_sheet,source_row,coverage_below_85_pct,basis,measure,sex,student_count
+2015-16,United States,True,96360,99.5,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,7,False,sex,reported,Total,43705
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,8,False,sex,reported,Total,581
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,9,False,sex,reported,Total,38
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,10,False,sex,reported,Total,957
+2015-16,Arkansas,False,1092,99.908,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,11,False,sex,reported,Total,573
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,12,False,sex,reported,Total,5759
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,13,False,sex,reported,Total,446
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,14,False,sex,reported,Total,430
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,15,False,sex,reported,Total,101
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,16,False,sex,reported,Total,97
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,17,False,sex,reported,Total,23
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,18,False,sex,reported,Total,770
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,19,False,sex,reported,Total,126
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,20,False,sex,reported,Total,215
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,21,False,sex,reported,Total,2046
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,22,False,sex,reported,Total,937
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,23,False,sex,reported,Total,546
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,24,False,sex,reported,Total,778
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,25,False,sex,reported,Total,431
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,26,False,sex,reported,Total,133
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,27,False,sex,reported,Total,265
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,28,False,sex,reported,Total,247
+2015-16,Massachusetts,False,1873,99.947,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,29,False,sex,reported,Total,853
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,30,False,sex,reported,Total,1753
+2015-16,Minnesota,False,2170,97.465,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,31,False,sex,reported,Total,1454
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,32,False,sex,reported,Total,442
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,33,False,sex,reported,Total,1609
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,34,False,sex,reported,Total,417
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,35,False,sex,reported,Total,317
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,36,False,sex,reported,Total,544
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,37,False,sex,reported,Total,284
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,38,False,sex,reported,Total,1766
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,39,False,sex,reported,Total,332
+2015-16,New York,False,4916,99.552,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,40,False,sex,reported,Total,5739
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,41,False,sex,reported,Total,1379
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,42,False,sex,reported,Total,111
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,43,False,sex,reported,Total,942
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,44,False,sex,reported,Total,612
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,45,False,sex,reported,Total,747
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,46,False,sex,reported,Total,1154
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,47,False,sex,reported,Total,93
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,48,False,sex,reported,Total,413
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,49,False,sex,reported,Total,110
+2015-16,Tennessee,False,1818,97.36,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,50,False,sex,reported,Total,814
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,51,False,sex,reported,Total,1349
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,52,False,sex,reported,Total,972
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,53,False,sex,reported,Total,586
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,54,False,sex,reported,Total,693
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,55,False,sex,reported,Total,729
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,56,False,sex,reported,Total,540
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,57,False,sex,reported,Total,1317
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Total,58,False,sex,reported,Total,135
+2015-16,United States,True,96360,99.5,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,7,False,sex,reported,Male,15770
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,8,False,sex,reported,Male,182
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,9,False,sex,reported,Male,12
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,10,False,sex,reported,Male,351
+2015-16,Arkansas,False,1092,99.908,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,11,False,sex,reported,Male,276
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,12,False,sex,reported,Male,2196
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,13,False,sex,reported,Male,138
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,14,False,sex,reported,Male,129
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,15,False,sex,reported,Male,41
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,16,False,sex,reported,Male,44
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,17,False,sex,reported,Male,2
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,18,False,sex,reported,Male,231
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,19,False,sex,reported,Male,53
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,20,False,sex,reported,Male,84
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,21,False,sex,reported,Male,853
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,22,False,sex,reported,Male,436
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,23,False,sex,reported,Male,172
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,24,False,sex,reported,Male,266
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,25,False,sex,reported,Male,193
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,26,False,sex,reported,Male,39
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,27,False,sex,reported,Male,117
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,28,False,sex,reported,Male,41
+2015-16,Massachusetts,False,1873,99.947,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,29,False,sex,reported,Male,252
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,30,False,sex,reported,Male,666
+2015-16,Minnesota,False,2170,97.465,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,31,False,sex,reported,Male,645
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,32,False,sex,reported,Male,294
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,33,False,sex,reported,Male,666
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,34,False,sex,reported,Male,181
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,35,False,sex,reported,Male,106
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,36,False,sex,reported,Male,206
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,37,False,sex,reported,Male,114
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,38,False,sex,reported,Male,608
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,39,False,sex,reported,Male,138
+2015-16,New York,False,4916,99.552,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,40,False,sex,reported,Male,1859
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,41,False,sex,reported,Male,245
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,42,False,sex,reported,Male,41
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,43,False,sex,reported,Male,346
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,44,False,sex,reported,Male,222
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,45,False,sex,reported,Male,242
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,46,False,sex,reported,Male,364
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,47,False,sex,reported,Male,26
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,48,False,sex,reported,Male,137
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,49,False,sex,reported,Male,49
+2015-16,Tennessee,False,1818,97.36,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,50,False,sex,reported,Male,268
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,51,False,sex,reported,Male,451
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,52,False,sex,reported,Male,362
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,53,False,sex,reported,Male,223
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,54,False,sex,reported,Male,177
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,55,False,sex,reported,Male,198
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,56,False,sex,reported,Male,211
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,57,False,sex,reported,Male,579
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Male,58,False,sex,reported,Male,38
+2015-16,United States,True,96360,99.5,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,7,False,sex,reported,Female,27935
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,8,False,sex,reported,Female,399
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,9,False,sex,reported,Female,26
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,10,False,sex,reported,Female,606
+2015-16,Arkansas,False,1092,99.908,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,11,False,sex,reported,Female,297
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,12,False,sex,reported,Female,3563
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,13,False,sex,reported,Female,308
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,14,False,sex,reported,Female,301
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,15,False,sex,reported,Female,60
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,16,False,sex,reported,Female,53
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,17,False,sex,reported,Female,21
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,18,False,sex,reported,Female,539
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,19,False,sex,reported,Female,73
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,20,False,sex,reported,Female,131
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,21,False,sex,reported,Female,1193
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,22,False,sex,reported,Female,501
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,23,False,sex,reported,Female,374
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,24,False,sex,reported,Female,512
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,25,False,sex,reported,Female,238
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,26,False,sex,reported,Female,94
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,27,False,sex,reported,Female,148
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,28,False,sex,reported,Female,206
+2015-16,Massachusetts,False,1873,99.947,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,29,False,sex,reported,Female,601
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,30,False,sex,reported,Female,1087
+2015-16,Minnesota,False,2170,97.465,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,31,False,sex,reported,Female,809
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,32,False,sex,reported,Female,148
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,33,False,sex,reported,Female,943
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,34,False,sex,reported,Female,236
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,35,False,sex,reported,Female,211
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,36,False,sex,reported,Female,338
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,37,False,sex,reported,Female,170
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,38,False,sex,reported,Female,1158
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,39,False,sex,reported,Female,194
+2015-16,New York,False,4916,99.552,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,40,False,sex,reported,Female,3880
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,41,False,sex,reported,Female,1134
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,42,False,sex,reported,Female,70
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,43,False,sex,reported,Female,596
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,44,False,sex,reported,Female,390
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,45,False,sex,reported,Female,505
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,46,False,sex,reported,Female,790
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,47,False,sex,reported,Female,67
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,48,False,sex,reported,Female,276
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,49,False,sex,reported,Female,61
+2015-16,Tennessee,False,1818,97.36,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,50,False,sex,reported,Female,546
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,51,False,sex,reported,Female,898
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,52,False,sex,reported,Female,610
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,53,False,sex,reported,Female,363
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,54,False,sex,reported,Female,516
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,55,False,sex,reported,Female,531
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,56,False,sex,reported,Female,329
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,57,False,sex,reported,Female,738
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-sex-reported.xlsx,Female,58,False,sex,reported,Female,97
+2015-16,United States,True,96360,99.793,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,7,False,sex,disciplined,Total,50191
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,8,False,sex,disciplined,Total,496
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,9,False,sex,disciplined,Total,23
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,10,False,sex,disciplined,Total,1420
+2015-16,Arkansas,False,1092,99.908,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,11,False,sex,disciplined,Total,412
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,12,False,sex,disciplined,Total,11826
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,13,False,sex,disciplined,Total,816
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,14,False,sex,disciplined,Total,380
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,15,False,sex,disciplined,Total,66
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,16,False,sex,disciplined,Total,105
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,17,False,sex,disciplined,Total,66
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,18,False,sex,disciplined,Total,674
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,19,False,sex,disciplined,Total,245
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,20,False,sex,disciplined,Total,213
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,21,False,sex,disciplined,Total,2816
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,22,False,sex,disciplined,Total,1005
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,23,False,sex,disciplined,Total,509
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,24,False,sex,disciplined,Total,830
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,25,False,sex,disciplined,Total,452
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,26,False,sex,disciplined,Total,177
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,27,False,sex,disciplined,Total,302
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,28,False,sex,disciplined,Total,230
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,29,False,sex,disciplined,Total,953
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,30,False,sex,disciplined,Total,1751
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,31,False,sex,disciplined,Total,1962
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,32,False,sex,disciplined,Total,428
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,33,False,sex,disciplined,Total,1531
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,34,False,sex,disciplined,Total,403
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,35,False,sex,disciplined,Total,423
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,36,False,sex,disciplined,Total,314
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,37,False,sex,disciplined,Total,247
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,38,False,sex,disciplined,Total,1363
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,39,False,sex,disciplined,Total,809
+2015-16,New York,False,4916,99.552,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,40,False,sex,disciplined,Total,3184
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,41,False,sex,disciplined,Total,1708
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,42,False,sex,disciplined,Total,112
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,43,False,sex,disciplined,Total,940
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,44,False,sex,disciplined,Total,540
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,45,False,sex,disciplined,Total,1090
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,46,False,sex,disciplined,Total,1412
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,47,False,sex,disciplined,Total,218
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,48,False,sex,disciplined,Total,377
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,49,False,sex,disciplined,Total,156
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,50,False,sex,disciplined,Total,878
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,51,False,sex,disciplined,Total,1219
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,52,False,sex,disciplined,Total,1140
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,53,False,sex,disciplined,Total,466
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,54,False,sex,disciplined,Total,612
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,55,False,sex,disciplined,Total,988
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,56,False,sex,disciplined,Total,479
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,57,False,sex,disciplined,Total,1303
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Total,58,False,sex,disciplined,Total,122
+2015-16,United States,True,96360,99.793,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,7,False,sex,disciplined,Male,39820
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,8,False,sex,disciplined,Male,383
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,9,False,sex,disciplined,Male,19
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,10,False,sex,disciplined,Male,1243
+2015-16,Arkansas,False,1092,99.908,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,11,False,sex,disciplined,Male,305
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,12,False,sex,disciplined,Male,8445
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,13,False,sex,disciplined,Male,682
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,14,False,sex,disciplined,Male,329
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,15,False,sex,disciplined,Male,59
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,16,False,sex,disciplined,Male,81
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,17,False,sex,disciplined,Male,55
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,18,False,sex,disciplined,Male,568
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,19,False,sex,disciplined,Male,202
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,20,False,sex,disciplined,Male,168
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,21,False,sex,disciplined,Male,2287
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,22,False,sex,disciplined,Male,761
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,23,False,sex,disciplined,Male,378
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,24,False,sex,disciplined,Male,687
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,25,False,sex,disciplined,Male,374
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,26,False,sex,disciplined,Male,140
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,27,False,sex,disciplined,Male,244
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,28,False,sex,disciplined,Male,190
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,29,False,sex,disciplined,Male,828
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,30,False,sex,disciplined,Male,1365
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,31,False,sex,disciplined,Male,1589
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,32,False,sex,disciplined,Male,348
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,33,False,sex,disciplined,Male,1241
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,34,False,sex,disciplined,Male,281
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,35,False,sex,disciplined,Male,344
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,36,False,sex,disciplined,Male,279
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,37,False,sex,disciplined,Male,204
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,38,False,sex,disciplined,Male,1051
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,39,False,sex,disciplined,Male,677
+2015-16,New York,False,4916,99.552,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,40,False,sex,disciplined,Male,2563
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,41,False,sex,disciplined,Male,1574
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,42,False,sex,disciplined,Male,77
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,43,False,sex,disciplined,Male,780
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,44,False,sex,disciplined,Male,447
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,45,False,sex,disciplined,Male,933
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,46,False,sex,disciplined,Male,1137
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,47,False,sex,disciplined,Male,183
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,48,False,sex,disciplined,Male,288
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,49,False,sex,disciplined,Male,123
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,50,False,sex,disciplined,Male,706
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,51,False,sex,disciplined,Male,935
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,52,False,sex,disciplined,Male,966
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,53,False,sex,disciplined,Male,364
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,54,False,sex,disciplined,Male,525
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,55,False,sex,disciplined,Male,878
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,56,False,sex,disciplined,Male,363
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,57,False,sex,disciplined,Male,1055
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Male,58,False,sex,disciplined,Male,116
+2015-16,United States,True,96360,99.793,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,7,False,sex,disciplined,Female,10371
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,8,False,sex,disciplined,Female,113
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,9,False,sex,disciplined,Female,4
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,10,False,sex,disciplined,Female,177
+2015-16,Arkansas,False,1092,99.908,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,11,False,sex,disciplined,Female,107
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,12,False,sex,disciplined,Female,3381
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,13,False,sex,disciplined,Female,134
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,14,False,sex,disciplined,Female,51
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,15,False,sex,disciplined,Female,7
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,16,False,sex,disciplined,Female,24
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,17,False,sex,disciplined,Female,11
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,18,False,sex,disciplined,Female,106
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,19,False,sex,disciplined,Female,43
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,20,False,sex,disciplined,Female,45
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,21,False,sex,disciplined,Female,529
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,22,False,sex,disciplined,Female,244
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,23,False,sex,disciplined,Female,131
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,24,False,sex,disciplined,Female,143
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,25,False,sex,disciplined,Female,78
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,26,False,sex,disciplined,Female,37
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,27,False,sex,disciplined,Female,58
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,28,False,sex,disciplined,Female,40
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,29,False,sex,disciplined,Female,125
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,30,False,sex,disciplined,Female,386
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,31,False,sex,disciplined,Female,373
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,32,False,sex,disciplined,Female,80
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,33,False,sex,disciplined,Female,290
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,34,False,sex,disciplined,Female,122
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,35,False,sex,disciplined,Female,79
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,36,False,sex,disciplined,Female,35
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,37,False,sex,disciplined,Female,43
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,38,False,sex,disciplined,Female,312
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,39,False,sex,disciplined,Female,132
+2015-16,New York,False,4916,99.552,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,40,False,sex,disciplined,Female,621
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,41,False,sex,disciplined,Female,134
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,42,False,sex,disciplined,Female,35
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,43,False,sex,disciplined,Female,160
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,44,False,sex,disciplined,Female,93
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,45,False,sex,disciplined,Female,157
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,46,False,sex,disciplined,Female,275
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,47,False,sex,disciplined,Female,35
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,48,False,sex,disciplined,Female,89
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,49,False,sex,disciplined,Female,33
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,50,False,sex,disciplined,Female,172
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,51,False,sex,disciplined,Female,284
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,52,False,sex,disciplined,Female,174
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,53,False,sex,disciplined,Female,102
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,54,False,sex,disciplined,Female,87
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,55,False,sex,disciplined,Female,110
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,56,False,sex,disciplined,Female,116
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,57,False,sex,disciplined,Female,248
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-sex-disciplined.xlsx,Female,58,False,sex,disciplined,Female,6
+2015-16,United States,True,96360,99.562,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,7,False,race,reported,Total,23491
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,8,False,race,reported,Total,529
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,9,False,race,reported,Total,14
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,10,False,race,reported,Total,449
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,11,False,race,reported,Total,442
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,12,False,race,reported,Total,2030
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,13,False,race,reported,Total,227
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,14,False,race,reported,Total,198
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,15,False,race,reported,Total,59
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,16,False,race,reported,Total,32
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,17,False,race,reported,Total,11
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,18,False,race,reported,Total,340
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,19,False,race,reported,Total,105
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,20,False,race,reported,Total,425
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,21,False,race,reported,Total,1359
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,22,False,race,reported,Total,447
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,23,False,race,reported,Total,265
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,24,False,race,reported,Total,284
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,25,False,race,reported,Total,221
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,26,False,race,reported,Total,122
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,27,False,race,reported,Total,123
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,28,False,race,reported,Total,102
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,29,False,race,reported,Total,312
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,30,False,race,reported,Total,1033
+2015-16,Minnesota,False,2170,98.756,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,31,False,race,reported,Total,1265
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,32,False,race,reported,Total,133
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,33,False,race,reported,Total,860
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,34,False,race,reported,Total,228
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,35,False,race,reported,Total,250
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,36,False,race,reported,Total,321
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,37,False,race,reported,Total,124
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,38,False,race,reported,Total,2150
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,39,False,race,reported,Total,84
+2015-16,New York,False,4916,99.654,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,40,False,race,reported,Total,2686
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,41,False,race,reported,Total,135
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,42,False,race,reported,Total,79
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,43,False,race,reported,Total,752
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,44,False,race,reported,Total,435
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,45,False,race,reported,Total,263
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,46,False,race,reported,Total,778
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,47,False,race,reported,Total,29
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,48,False,race,reported,Total,321
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,49,False,race,reported,Total,28
+2015-16,Tennessee,False,1818,98.845,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,50,False,race,reported,Total,543
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,51,False,race,reported,Total,577
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,52,False,race,reported,Total,470
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,53,False,race,reported,Total,195
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,54,False,race,reported,Total,293
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,55,False,race,reported,Total,402
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,56,False,race,reported,Total,319
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,57,False,race,reported,Total,584
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Total,58,False,race,reported,Total,58
+2015-16,United States,True,96360,99.562,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,7,False,race,reported,Male,14906
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,8,False,race,reported,Male,362
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,9,False,race,reported,Male,6
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,10,False,race,reported,Male,260
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,11,False,race,reported,Male,270
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,12,False,race,reported,Male,1242
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,13,False,race,reported,Male,144
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,14,False,race,reported,Male,126
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,15,False,race,reported,Male,32
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,16,False,race,reported,Male,12
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,17,False,race,reported,Male,6
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,18,False,race,reported,Male,203
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,19,False,race,reported,Male,75
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,20,False,race,reported,Male,293
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,21,False,race,reported,Male,932
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,22,False,race,reported,Male,308
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,23,False,race,reported,Male,173
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,24,False,race,reported,Male,194
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,25,False,race,reported,Male,143
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,26,False,race,reported,Male,74
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,27,False,race,reported,Male,78
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,28,False,race,reported,Male,64
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,29,False,race,reported,Male,197
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,30,False,race,reported,Male,707
+2015-16,Minnesota,False,2170,98.756,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,31,False,race,reported,Male,828
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,32,False,race,reported,Male,96
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,33,False,race,reported,Male,560
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,34,False,race,reported,Male,136
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,35,False,race,reported,Male,152
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,36,False,race,reported,Male,193
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,37,False,race,reported,Male,82
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,38,False,race,reported,Male,1238
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,39,False,race,reported,Male,50
+2015-16,New York,False,4916,99.654,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,40,False,race,reported,Male,1680
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,41,False,race,reported,Male,87
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,42,False,race,reported,Male,49
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,43,False,race,reported,Male,475
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,44,False,race,reported,Male,294
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,45,False,race,reported,Male,153
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,46,False,race,reported,Male,507
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,47,False,race,reported,Male,18
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,48,False,race,reported,Male,209
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,49,False,race,reported,Male,17
+2015-16,Tennessee,False,1818,98.845,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,50,False,race,reported,Male,350
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,51,False,race,reported,Male,368
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,52,False,race,reported,Male,304
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,53,False,race,reported,Male,133
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,54,False,race,reported,Male,183
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,55,False,race,reported,Male,238
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,56,False,race,reported,Male,193
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,57,False,race,reported,Male,375
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Male,58,False,race,reported,Male,37
+2015-16,United States,True,96360,99.562,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,7,False,race,reported,Female,8585
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,8,False,race,reported,Female,167
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,9,False,race,reported,Female,8
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,10,False,race,reported,Female,189
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,11,False,race,reported,Female,172
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,12,False,race,reported,Female,788
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,13,False,race,reported,Female,83
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,14,False,race,reported,Female,72
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,15,False,race,reported,Female,27
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,16,False,race,reported,Female,20
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,17,False,race,reported,Female,5
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,18,False,race,reported,Female,137
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,19,False,race,reported,Female,30
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,20,False,race,reported,Female,132
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,21,False,race,reported,Female,427
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,22,False,race,reported,Female,139
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,23,False,race,reported,Female,92
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,24,False,race,reported,Female,90
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,25,False,race,reported,Female,78
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,26,False,race,reported,Female,48
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,27,False,race,reported,Female,45
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,28,False,race,reported,Female,38
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,29,False,race,reported,Female,115
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,30,False,race,reported,Female,326
+2015-16,Minnesota,False,2170,98.756,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,31,False,race,reported,Female,437
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,32,False,race,reported,Female,37
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,33,False,race,reported,Female,300
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,34,False,race,reported,Female,92
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,35,False,race,reported,Female,98
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,36,False,race,reported,Female,128
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,37,False,race,reported,Female,42
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,38,False,race,reported,Female,912
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,39,False,race,reported,Female,34
+2015-16,New York,False,4916,99.654,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,40,False,race,reported,Female,1006
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,41,False,race,reported,Female,48
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,42,False,race,reported,Female,30
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,43,False,race,reported,Female,277
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,44,False,race,reported,Female,141
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,45,False,race,reported,Female,110
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,46,False,race,reported,Female,271
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,47,False,race,reported,Female,11
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,48,False,race,reported,Female,112
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,49,False,race,reported,Female,11
+2015-16,Tennessee,False,1818,98.845,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,50,False,race,reported,Female,193
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,51,False,race,reported,Female,209
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,52,False,race,reported,Female,166
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,53,False,race,reported,Female,62
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,54,False,race,reported,Female,110
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,55,False,race,reported,Female,164
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,56,False,race,reported,Female,126
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,57,False,race,reported,Female,209
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-race-reported.xlsx,Female,58,False,race,reported,Female,21
+2015-16,United States,True,96360,99.798,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,7,False,race,disciplined,Total,28677
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,8,False,race,disciplined,Total,546
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,9,False,race,disciplined,Total,15
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,10,False,race,disciplined,Total,461
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,11,False,race,disciplined,Total,428
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,12,False,race,disciplined,Total,6229
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,13,False,race,disciplined,Total,293
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,14,False,race,disciplined,Total,183
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,15,False,race,disciplined,Total,37
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,16,False,race,disciplined,Total,32
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,17,False,race,disciplined,Total,8
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,18,False,race,disciplined,Total,343
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,19,False,race,disciplined,Total,275
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,20,False,race,disciplined,Total,471
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,21,False,race,disciplined,Total,2118
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,22,False,race,disciplined,Total,446
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,23,False,race,disciplined,Total,208
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,24,False,race,disciplined,Total,296
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,25,False,race,disciplined,Total,239
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,26,False,race,disciplined,Total,133
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,27,False,race,disciplined,Total,161
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,28,False,race,disciplined,Total,108
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,29,False,race,disciplined,Total,366
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,30,False,race,disciplined,Total,1068
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,31,False,race,disciplined,Total,1548
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,32,False,race,disciplined,Total,107
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,33,False,race,disciplined,Total,881
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,34,False,race,disciplined,Total,265
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,35,False,race,disciplined,Total,297
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,36,False,race,disciplined,Total,51
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,37,False,race,disciplined,Total,103
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,38,False,race,disciplined,Total,1837
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,39,False,race,disciplined,Total,89
+2015-16,New York,False,4916,99.654,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,40,False,race,disciplined,Total,2067
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,41,False,race,disciplined,Total,153
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,42,False,race,disciplined,Total,101
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,43,False,race,disciplined,Total,582
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,44,False,race,disciplined,Total,403
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,45,False,race,disciplined,Total,365
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,46,False,race,disciplined,Total,956
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,47,False,race,disciplined,Total,177
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,48,False,race,disciplined,Total,301
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,49,False,race,disciplined,Total,28
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,50,False,race,disciplined,Total,521
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,51,False,race,disciplined,Total,747
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,52,False,race,disciplined,Total,490
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,53,False,race,disciplined,Total,168
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,54,False,race,disciplined,Total,316
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,55,False,race,disciplined,Total,674
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,56,False,race,disciplined,Total,324
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,57,False,race,disciplined,Total,596
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Total,58,False,race,disciplined,Total,66
+2015-16,United States,True,96360,99.798,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,7,False,race,disciplined,Male,21470
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,8,False,race,disciplined,Male,405
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,9,False,race,disciplined,Male,9
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,10,False,race,disciplined,Male,342
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,11,False,race,disciplined,Male,300
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,12,False,race,disciplined,Male,4155
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,13,False,race,disciplined,Male,243
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,14,False,race,disciplined,Male,140
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,15,False,race,disciplined,Male,28
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,16,False,race,disciplined,Male,16
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,17,False,race,disciplined,Male,6
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,18,False,race,disciplined,Male,280
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,19,False,race,disciplined,Male,214
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,20,False,race,disciplined,Male,351
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,21,False,race,disciplined,Male,1638
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,22,False,race,disciplined,Male,337
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,23,False,race,disciplined,Male,174
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,24,False,race,disciplined,Male,235
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,25,False,race,disciplined,Male,182
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,26,False,race,disciplined,Male,92
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,27,False,race,disciplined,Male,130
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,28,False,race,disciplined,Male,85
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,29,False,race,disciplined,Male,281
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,30,False,race,disciplined,Male,845
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,31,False,race,disciplined,Male,1190
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,32,False,race,disciplined,Male,80
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,33,False,race,disciplined,Male,645
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,34,False,race,disciplined,Male,191
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,35,False,race,disciplined,Male,222
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,36,False,race,disciplined,Male,43
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,37,False,race,disciplined,Male,91
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,38,False,race,disciplined,Male,1401
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,39,False,race,disciplined,Male,68
+2015-16,New York,False,4916,99.654,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,40,False,race,disciplined,Male,1660
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,41,False,race,disciplined,Male,133
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,42,False,race,disciplined,Male,67
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,43,False,race,disciplined,Male,442
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,44,False,race,disciplined,Male,311
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,45,False,race,disciplined,Male,276
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,46,False,race,disciplined,Male,759
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,47,False,race,disciplined,Male,121
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,48,False,race,disciplined,Male,220
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,49,False,race,disciplined,Male,20
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,50,False,race,disciplined,Male,390
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,51,False,race,disciplined,Male,574
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,52,False,race,disciplined,Male,364
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,53,False,race,disciplined,Male,142
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,54,False,race,disciplined,Male,263
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,55,False,race,disciplined,Male,538
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,56,False,race,disciplined,Male,223
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,57,False,race,disciplined,Male,490
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Male,58,False,race,disciplined,Male,58
+2015-16,United States,True,96360,99.798,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,7,False,race,disciplined,Female,7207
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,8,False,race,disciplined,Female,141
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,9,False,race,disciplined,Female,6
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,10,False,race,disciplined,Female,119
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,11,False,race,disciplined,Female,128
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,12,False,race,disciplined,Female,2074
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,13,False,race,disciplined,Female,50
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,14,False,race,disciplined,Female,43
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,15,False,race,disciplined,Female,9
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,16,False,race,disciplined,Female,16
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,17,False,race,disciplined,Female,2
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,18,False,race,disciplined,Female,63
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,19,False,race,disciplined,Female,61
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,20,False,race,disciplined,Female,120
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,21,False,race,disciplined,Female,480
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,22,False,race,disciplined,Female,109
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,23,False,race,disciplined,Female,34
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,24,False,race,disciplined,Female,61
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,25,False,race,disciplined,Female,57
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,26,False,race,disciplined,Female,41
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,27,False,race,disciplined,Female,31
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,28,False,race,disciplined,Female,23
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,29,False,race,disciplined,Female,85
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,30,False,race,disciplined,Female,223
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,31,False,race,disciplined,Female,358
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,32,False,race,disciplined,Female,27
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,33,False,race,disciplined,Female,236
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,34,False,race,disciplined,Female,74
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,35,False,race,disciplined,Female,75
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,36,False,race,disciplined,Female,8
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,37,False,race,disciplined,Female,12
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,38,False,race,disciplined,Female,436
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,39,False,race,disciplined,Female,21
+2015-16,New York,False,4916,99.654,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,40,False,race,disciplined,Female,407
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,41,False,race,disciplined,Female,20
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,42,False,race,disciplined,Female,34
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,43,False,race,disciplined,Female,140
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,44,False,race,disciplined,Female,92
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,45,False,race,disciplined,Female,89
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,46,False,race,disciplined,Female,197
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,47,False,race,disciplined,Female,56
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,48,False,race,disciplined,Female,81
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,49,False,race,disciplined,Female,8
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,50,False,race,disciplined,Female,131
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,51,False,race,disciplined,Female,173
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,52,False,race,disciplined,Female,126
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,53,False,race,disciplined,Female,26
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,54,False,race,disciplined,Female,53
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,55,False,race,disciplined,Female,136
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,56,False,race,disciplined,Female,101
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,57,False,race,disciplined,Female,106
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-race-disciplined.xlsx,Female,58,False,race,disciplined,Female,8
+2015-16,United States,True,96360,99.601,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,7,False,disability,reported,Total,9320
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,8,False,disability,reported,Total,80
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,9,False,disability,reported,Total,4
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,10,False,disability,reported,Total,180
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,11,False,disability,reported,Total,104
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,12,False,disability,reported,Total,923
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,13,False,disability,reported,Total,55
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,14,False,disability,reported,Total,89
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,15,False,disability,reported,Total,38
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,16,False,disability,reported,Total,28
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,17,False,disability,reported,Total,10
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,18,False,disability,reported,Total,118
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,19,False,disability,reported,Total,45
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,20,False,disability,reported,Total,54
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,21,False,disability,reported,Total,519
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,22,False,disability,reported,Total,187
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,23,False,disability,reported,Total,194
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,24,False,disability,reported,Total,114
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,25,False,disability,reported,Total,78
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,26,False,disability,reported,Total,40
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,27,False,disability,reported,Total,37
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,28,False,disability,reported,Total,70
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,29,False,disability,reported,Total,187
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,30,False,disability,reported,Total,532
+2015-16,Minnesota,False,2170,99.631,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,31,False,disability,reported,Total,449
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,32,False,disability,reported,Total,51
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,33,False,disability,reported,Total,370
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,34,False,disability,reported,Total,85
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,35,False,disability,reported,Total,79
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,36,False,disability,reported,Total,186
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,37,False,disability,reported,Total,63
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,38,False,disability,reported,Total,850
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,39,False,disability,reported,Total,48
+2015-16,New York,False,4916,99.776,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,40,False,disability,reported,Total,800
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,41,False,disability,reported,Total,31
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,42,False,disability,reported,Total,15
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,43,False,disability,reported,Total,188
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,44,False,disability,reported,Total,147
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,45,False,disability,reported,Total,159
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,46,False,disability,reported,Total,377
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,47,False,disability,reported,Total,19
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,48,False,disability,reported,Total,97
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,49,False,disability,reported,Total,25
+2015-16,Tennessee,False,1818,99.56,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,50,False,disability,reported,Total,188
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,51,False,disability,reported,Total,234
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,52,False,disability,reported,Total,202
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,53,False,disability,reported,Total,110
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,54,False,disability,reported,Total,164
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,55,False,disability,reported,Total,243
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,56,False,disability,reported,Total,158
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,57,False,disability,reported,Total,282
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Total,58,False,disability,reported,Total,14
+2015-16,United States,True,96360,99.601,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,7,False,disability,reported,Male,6234
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,8,False,disability,reported,Male,52
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,9,False,disability,reported,Male,2
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,10,False,disability,reported,Male,110
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,11,False,disability,reported,Male,68
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,12,False,disability,reported,Male,585
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,13,False,disability,reported,Male,43
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,14,False,disability,reported,Male,59
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,15,False,disability,reported,Male,30
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,16,False,disability,reported,Male,10
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,17,False,disability,reported,Male,6
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,18,False,disability,reported,Male,84
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,19,False,disability,reported,Male,31
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,20,False,disability,reported,Male,35
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,21,False,disability,reported,Male,349
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,22,False,disability,reported,Male,104
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,23,False,disability,reported,Male,113
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,24,False,disability,reported,Male,72
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,25,False,disability,reported,Male,63
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,26,False,disability,reported,Male,29
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,27,False,disability,reported,Male,27
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,28,False,disability,reported,Male,46
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,29,False,disability,reported,Male,133
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,30,False,disability,reported,Male,404
+2015-16,Minnesota,False,2170,99.631,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,31,False,disability,reported,Male,301
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,32,False,disability,reported,Male,46
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,33,False,disability,reported,Male,265
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,34,False,disability,reported,Male,58
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,35,False,disability,reported,Male,44
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,36,False,disability,reported,Male,134
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,37,False,disability,reported,Male,48
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,38,False,disability,reported,Male,553
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,39,False,disability,reported,Male,29
+2015-16,New York,False,4916,99.776,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,40,False,disability,reported,Male,547
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,41,False,disability,reported,Male,22
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,42,False,disability,reported,Male,10
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,43,False,disability,reported,Male,129
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,44,False,disability,reported,Male,94
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,45,False,disability,reported,Male,103
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,46,False,disability,reported,Male,240
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,47,False,disability,reported,Male,14
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,48,False,disability,reported,Male,60
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,49,False,disability,reported,Male,19
+2015-16,Tennessee,False,1818,99.56,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,50,False,disability,reported,Male,128
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,51,False,disability,reported,Male,162
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,52,False,disability,reported,Male,149
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,53,False,disability,reported,Male,78
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,54,False,disability,reported,Male,107
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,55,False,disability,reported,Male,135
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,56,False,disability,reported,Male,95
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,57,False,disability,reported,Male,200
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Male,58,False,disability,reported,Male,9
+2015-16,United States,True,96360,99.601,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,7,False,disability,reported,Female,3086
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,8,False,disability,reported,Female,28
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,9,False,disability,reported,Female,2
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,10,False,disability,reported,Female,70
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,11,False,disability,reported,Female,36
+2015-16,California,False,10138,99.645,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,12,False,disability,reported,Female,338
+2015-16,Colorado,False,1868,89.615,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,13,False,disability,reported,Female,12
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,14,False,disability,reported,Female,30
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,15,False,disability,reported,Female,8
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,16,False,disability,reported,Female,18
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,17,False,disability,reported,Female,4
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,18,False,disability,reported,Female,34
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,19,False,disability,reported,Female,14
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,20,False,disability,reported,Female,19
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,21,False,disability,reported,Female,170
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,22,False,disability,reported,Female,83
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,23,False,disability,reported,Female,81
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,24,False,disability,reported,Female,42
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,25,False,disability,reported,Female,15
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,26,False,disability,reported,Female,11
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,27,False,disability,reported,Female,10
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,28,False,disability,reported,Female,24
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,29,False,disability,reported,Female,54
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,30,False,disability,reported,Female,128
+2015-16,Minnesota,False,2170,99.631,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,31,False,disability,reported,Female,148
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,32,False,disability,reported,Female,5
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,33,False,disability,reported,Female,105
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,34,False,disability,reported,Female,27
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,35,False,disability,reported,Female,35
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,36,False,disability,reported,Female,52
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,37,False,disability,reported,Female,15
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,38,False,disability,reported,Female,297
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,39,False,disability,reported,Female,19
+2015-16,New York,False,4916,99.776,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,40,False,disability,reported,Female,253
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,41,False,disability,reported,Female,9
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,42,False,disability,reported,Female,5
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,43,False,disability,reported,Female,59
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,44,False,disability,reported,Female,53
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,45,False,disability,reported,Female,56
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,46,False,disability,reported,Female,137
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,47,False,disability,reported,Female,5
+2015-16,South Carolina,False,1236,95.631,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,48,False,disability,reported,Female,37
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,49,False,disability,reported,Female,6
+2015-16,Tennessee,False,1818,99.56,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,50,False,disability,reported,Female,60
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,51,False,disability,reported,Female,72
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,52,False,disability,reported,Female,53
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,53,False,disability,reported,Female,32
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,54,False,disability,reported,Female,57
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,55,False,disability,reported,Female,108
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,56,False,disability,reported,Female,63
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,57,False,disability,reported,Female,82
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-disability-reported.xlsx,Female,58,False,disability,reported,Female,5
+2015-16,United States,True,96360,99.84,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,7,False,disability,disciplined,Total,12234
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,8,False,disability,disciplined,Total,69
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,9,False,disability,disciplined,Total,3
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,10,False,disability,disciplined,Total,211
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,11,False,disability,disciplined,Total,135
+2015-16,California,False,10138,99.99,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,12,False,disability,disciplined,Total,2012
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,13,False,disability,disciplined,Total,61
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,14,False,disability,disciplined,Total,85
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,15,False,disability,disciplined,Total,15
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,16,False,disability,disciplined,Total,15
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,17,False,disability,disciplined,Total,7
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,18,False,disability,disciplined,Total,118
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,19,False,disability,disciplined,Total,83
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,20,False,disability,disciplined,Total,62
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,21,False,disability,disciplined,Total,1265
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,22,False,disability,disciplined,Total,188
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,23,False,disability,disciplined,Total,184
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,24,False,disability,disciplined,Total,118
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,25,False,disability,disciplined,Total,80
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,26,False,disability,disciplined,Total,40
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,27,False,disability,disciplined,Total,32
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,28,False,disability,disciplined,Total,66
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,29,False,disability,disciplined,Total,162
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,30,False,disability,disciplined,Total,607
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,31,False,disability,disciplined,Total,552
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,32,False,disability,disciplined,Total,46
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,33,False,disability,disciplined,Total,444
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,34,False,disability,disciplined,Total,123
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,35,False,disability,disciplined,Total,98
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,36,False,disability,disciplined,Total,37
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,37,False,disability,disciplined,Total,52
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,38,False,disability,disciplined,Total,807
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,39,False,disability,disciplined,Total,77
+2015-16,New York,False,4916,99.776,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,40,False,disability,disciplined,Total,674
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,41,False,disability,disciplined,Total,39
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,42,False,disability,disciplined,Total,19
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,43,False,disability,disciplined,Total,282
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,44,False,disability,disciplined,Total,123
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,45,False,disability,disciplined,Total,394
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,46,False,disability,disciplined,Total,748
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,47,False,disability,disciplined,Total,168
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,48,False,disability,disciplined,Total,96
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,49,False,disability,disciplined,Total,23
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,50,False,disability,disciplined,Total,184
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,51,False,disability,disciplined,Total,253
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,52,False,disability,disciplined,Total,169
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,53,False,disability,disciplined,Total,91
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,54,False,disability,disciplined,Total,171
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,55,False,disability,disciplined,Total,432
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,56,False,disability,disciplined,Total,177
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,57,False,disability,disciplined,Total,320
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Total,58,False,disability,disciplined,Total,17
+2015-16,United States,True,96360,99.84,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,7,False,disability,disciplined,Male,9088
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,8,False,disability,disciplined,Male,57
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,9,False,disability,disciplined,Male,3
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,10,False,disability,disciplined,Male,152
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,11,False,disability,disciplined,Male,91
+2015-16,California,False,10138,99.99,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,12,False,disability,disciplined,Male,1368
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,13,False,disability,disciplined,Male,47
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,14,False,disability,disciplined,Male,68
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,15,False,disability,disciplined,Male,10
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,16,False,disability,disciplined,Male,9
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,17,False,disability,disciplined,Male,3
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,18,False,disability,disciplined,Male,98
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,19,False,disability,disciplined,Male,70
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,20,False,disability,disciplined,Male,51
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,21,False,disability,disciplined,Male,932
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,22,False,disability,disciplined,Male,132
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,23,False,disability,disciplined,Male,134
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,24,False,disability,disciplined,Male,99
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,25,False,disability,disciplined,Male,69
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,26,False,disability,disciplined,Male,31
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,27,False,disability,disciplined,Male,24
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,28,False,disability,disciplined,Male,47
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,29,False,disability,disciplined,Male,139
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,30,False,disability,disciplined,Male,465
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,31,False,disability,disciplined,Male,413
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,32,False,disability,disciplined,Male,39
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,33,False,disability,disciplined,Male,308
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,34,False,disability,disciplined,Male,86
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,35,False,disability,disciplined,Male,76
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,36,False,disability,disciplined,Male,27
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,37,False,disability,disciplined,Male,36
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,38,False,disability,disciplined,Male,617
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,39,False,disability,disciplined,Male,58
+2015-16,New York,False,4916,99.776,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,40,False,disability,disciplined,Male,534
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,41,False,disability,disciplined,Male,25
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,42,False,disability,disciplined,Male,12
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,43,False,disability,disciplined,Male,220
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,44,False,disability,disciplined,Male,90
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,45,False,disability,disciplined,Male,283
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,46,False,disability,disciplined,Male,542
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,47,False,disability,disciplined,Male,116
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,48,False,disability,disciplined,Male,72
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,49,False,disability,disciplined,Male,18
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,50,False,disability,disciplined,Male,138
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,51,False,disability,disciplined,Male,196
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,52,False,disability,disciplined,Male,141
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,53,False,disability,disciplined,Male,69
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,54,False,disability,disciplined,Male,135
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,55,False,disability,disciplined,Male,334
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,56,False,disability,disciplined,Male,123
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,57,False,disability,disciplined,Male,269
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Male,58,False,disability,disciplined,Male,12
+2015-16,United States,True,96360,99.84,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,7,False,disability,disciplined,Female,3146
+2015-16,Alabama,False,1400,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,8,False,disability,disciplined,Female,12
+2015-16,Alaska,False,503,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,9,False,disability,disciplined,Female,0
+2015-16,Arizona,False,1977,99.697,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,10,False,disability,disciplined,Female,59
+2015-16,Arkansas,False,1092,99.817,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,11,False,disability,disciplined,Female,44
+2015-16,California,False,10138,99.99,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,12,False,disability,disciplined,Female,644
+2015-16,Colorado,False,1868,98.287,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,13,False,disability,disciplined,Female,14
+2015-16,Connecticut,False,1238,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,14,False,disability,disciplined,Female,17
+2015-16,Delaware,False,235,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,15,False,disability,disciplined,Female,5
+2015-16,District of Columbia,False,221,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,16,False,disability,disciplined,Female,6
+2015-16,Florida,False,3952,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,17,False,disability,disciplined,Female,4
+2015-16,Georgia,False,2407,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,18,False,disability,disciplined,Female,20
+2015-16,Hawaii,False,290,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,19,False,disability,disciplined,Female,13
+2015-16,Idaho,False,720,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,20,False,disability,disciplined,Female,11
+2015-16,Illinois,False,4081,99.706,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,21,False,disability,disciplined,Female,333
+2015-16,Indiana,False,1879,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,22,False,disability,disciplined,Female,56
+2015-16,Iowa,False,1365,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,23,False,disability,disciplined,Female,50
+2015-16,Kansas,False,1356,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,24,False,disability,disciplined,Female,19
+2015-16,Kentucky,False,1407,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,25,False,disability,disciplined,Female,11
+2015-16,Louisiana,False,1367,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,26,False,disability,disciplined,Female,9
+2015-16,Maine,False,589,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,27,False,disability,disciplined,Female,8
+2015-16,Maryland,False,1434,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,28,False,disability,disciplined,Female,19
+2015-16,Massachusetts,False,1873,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,29,False,disability,disciplined,Female,23
+2015-16,Michigan,False,3616,99.972,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,30,False,disability,disciplined,Female,142
+2015-16,Minnesota,False,2170,99.77,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,31,False,disability,disciplined,Female,139
+2015-16,Mississippi,False,978,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,32,False,disability,disciplined,Female,7
+2015-16,Missouri,False,2372,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,33,False,disability,disciplined,Female,136
+2015-16,Montana,False,825,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,34,False,disability,disciplined,Female,37
+2015-16,Nebraska,False,1064,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,35,False,disability,disciplined,Female,22
+2015-16,Nevada,False,658,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,36,False,disability,disciplined,Female,10
+2015-16,New Hampshire,False,483,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,37,False,disability,disciplined,Female,16
+2015-16,New Jersey,False,2577,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,38,False,disability,disciplined,Female,190
+2015-16,New Mexico,False,880,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,39,False,disability,disciplined,Female,19
+2015-16,New York,False,4916,99.776,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,40,False,disability,disciplined,Female,140
+2015-16,North Carolina,False,2618,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,41,False,disability,disciplined,Female,14
+2015-16,North Dakota,False,481,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,42,False,disability,disciplined,Female,7
+2015-16,Ohio,False,3631,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,43,False,disability,disciplined,Female,62
+2015-16,Oklahoma,False,1815,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,44,False,disability,disciplined,Female,33
+2015-16,Oregon,False,1283,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,45,False,disability,disciplined,Female,111
+2015-16,Pennsylvania,False,3027,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,46,False,disability,disciplined,Female,206
+2015-16,Rhode Island,False,308,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,47,False,disability,disciplined,Female,52
+2015-16,South Carolina,False,1236,97.411,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,48,False,disability,disciplined,Female,24
+2015-16,South Dakota,False,688,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,49,False,disability,disciplined,Female,5
+2015-16,Tennessee,False,1818,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,50,False,disability,disciplined,Female,46
+2015-16,Texas,False,8616,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,51,False,disability,disciplined,Female,57
+2015-16,Utah,False,1009,94.846,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,52,False,disability,disciplined,Female,28
+2015-16,Vermont,False,306,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,53,False,disability,disciplined,Female,22
+2015-16,Virginia,False,1971,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,54,False,disability,disciplined,Female,36
+2015-16,Washington,False,2305,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,55,False,disability,disciplined,Female,98
+2015-16,West Virginia,False,720,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,56,False,disability,disciplined,Female,54
+2015-16,Wisconsin,False,2232,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,57,False,disability,disciplined,Female,51
+2015-16,Wyoming,False,365,100.0,Harassment-Bullying-on-basis-of-disability-disciplined.xlsx,Female,58,False,disability,disciplined,Female,5

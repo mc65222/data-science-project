@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "workbooks": 7,
+  "sheets": 19,
+  "student_table_rows": 936,
+  "allegation_table_rows": 52,
+  "checks": [
+    "52 unique geographies per sheet",
+    "nonnegative integer counts",
+    "coverage within 0-100",
+    "national equals sum of 50 states and DC",
+    "Male + Female equals Total",
+    "allegation categories sum to total"
+  ]
+}

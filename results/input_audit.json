@@ -1,0 +1,144 @@
+{
+  "python": "3.11.2",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "matplotlib": "3.8.4",
+    "openpyxl": "3.1.5"
+  },
+  "tables": [
+    {
+      "file": "Allegations-of-Harassment-or-Bullying.xlsx",
+      "sheet": "Total",
+      "title": "Number of allegations of harassment or bullying reported to responsible school employees, by type of allegation: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "b6cd90cd1969d3c21abb3ed773195f11069ef6888c38774bb8f1c43f108c0326"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-sex-reported.xlsx",
+      "sheet": "Total",
+      "title": "Number and percentage of public school students reported to have been harassed or bullied on the basis of sex, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "46c4897dc674e3e625a08ecfb33354edc81406f7784c17f22874fde8ddd3bb47"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-sex-reported.xlsx",
+      "sheet": "Male",
+      "title": "Number and percentage of public school male students reported to have been harassed or bullied on the basis of sex, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "46c4897dc674e3e625a08ecfb33354edc81406f7784c17f22874fde8ddd3bb47"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-sex-reported.xlsx",
+      "sheet": "Female",
+      "title": "Number and percentage of public school female students reported to have been harassed or bullied on the basis of sex, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "46c4897dc674e3e625a08ecfb33354edc81406f7784c17f22874fde8ddd3bb47"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-sex-disciplined.xlsx",
+      "sheet": "Total",
+      "title": "Number and percentage of public school students disciplined for engaging in harassment or bullying on the basis of sex, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "99145fa0b1e6962823b9678d23ee8ae0fd97cabba1cf6948bfd8a3d235f01cc7"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-sex-disciplined.xlsx",
+      "sheet": "Male",
+      "title": "Number and percentage of public school male students disciplined for engaging in harassment or bullying on the basis of sex, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "99145fa0b1e6962823b9678d23ee8ae0fd97cabba1cf6948bfd8a3d235f01cc7"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-sex-disciplined.xlsx",
+      "sheet": "Female",
+      "title": "Number and percentage of public school female students disciplined for engaging in harassment or bullying on the basis of sex, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "99145fa0b1e6962823b9678d23ee8ae0fd97cabba1cf6948bfd8a3d235f01cc7"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-race-reported.xlsx",
+      "sheet": "Total",
+      "title": "Number and percentage of public school students reported to have been harassed or bullied on the basis of race, color or national origin, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "20f57d3337bce0999dbd129d26dcbcf6f5efec7956fb3ff60a0e42d122db39c7"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-race-reported.xlsx",
+      "sheet": "Male",
+      "title": "Number and percentage of public school male students reported to have been harassed or bullied on the basis of race, color or national origin, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "20f57d3337bce0999dbd129d26dcbcf6f5efec7956fb3ff60a0e42d122db39c7"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-race-reported.xlsx",
+      "sheet": "Female",
+      "title": "Number and percentage of public school female students reported to have been harassed or bullied on the basis of race, color or national origin, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "20f57d3337bce0999dbd129d26dcbcf6f5efec7956fb3ff60a0e42d122db39c7"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-race-disciplined.xlsx",
+      "sheet": "Total",
+      "title": "Number and percentage of public school students disciplined for engaging in harassment or bullying on the basis of race, color or national origin, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "d79e3ba8830696911d0243e2274fade5240134a9d79863419a36261a2e56f1a3"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-race-disciplined.xlsx",
+      "sheet": "Male",
+      "title": "Number and percentage of public school male students disciplined for engaging in harassment or bullying on the basis of race, color or national origin, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "d79e3ba8830696911d0243e2274fade5240134a9d79863419a36261a2e56f1a3"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-race-disciplined.xlsx",
+      "sheet": "Female",
+      "title": "Number and percentage of public school female students disciplined for engaging in harassment or bullying on the basis of race, color or national origin, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "d79e3ba8830696911d0243e2274fade5240134a9d79863419a36261a2e56f1a3"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-disability-reported.xlsx",
+      "sheet": "Total",
+      "title": "Number and percentage of public school students reported to have been harassed or bullied on the basis of disability, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "c24b3f70a272f8378a20f8038d1be3c33b7d86b7f67830f80924eb9f1c330bf0"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-disability-reported.xlsx",
+      "sheet": "Male",
+      "title": "Number and percentage of public school male students reported to have been harassed or bullied on the basis of disability, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "c24b3f70a272f8378a20f8038d1be3c33b7d86b7f67830f80924eb9f1c330bf0"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-disability-reported.xlsx",
+      "sheet": "Female",
+      "title": "Number and percentage of public school female students reported to have been harassed or bullied on the basis of disability, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "c24b3f70a272f8378a20f8038d1be3c33b7d86b7f67830f80924eb9f1c330bf0"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-disability-disciplined.xlsx",
+      "sheet": "Total",
+      "title": "Number and percentage of public school students disciplined for engaging in harassment or bullying on the basis of disability, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "2fdc4f39c37b35e024233616671e376ecd2e6e97ad34c4ac8e94e3a3cf80d6a2"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-disability-disciplined.xlsx",
+      "sheet": "Male",
+      "title": "Number and percentage of public school male students disciplined for engaging in harassment or bullying on the basis of disability, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "2fdc4f39c37b35e024233616671e376ecd2e6e97ad34c4ac8e94e3a3cf80d6a2"
+    },
+    {
+      "file": "Harassment-Bullying-on-basis-of-disability-disciplined.xlsx",
+      "sheet": "Female",
+      "title": "Number and percentage of public school female students disciplined for engaging in harassment or bullying on the basis of disability, by race/ethnicity, disability status, and English proficiency, by state: School Year 2015-16",
+      "geography_rows": 52,
+      "sha256": "2fdc4f39c37b35e024233616671e376ecd2e6e97ad34c4ac8e94e3a3cf80d6a2"
+    }
+  ]
+}

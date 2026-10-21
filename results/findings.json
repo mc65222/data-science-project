@@ -1,0 +1,23 @@
+{
+  "school_year": "2015-16",
+  "total_allegations": 135192,
+  "sex_based_allegations": 55579,
+  "sex_based_allegations_share_pct": 41.11116042369371,
+  "female_share_of_sex_based_reported_students_pct": 63.91717194828966,
+  "national_student_counts": {
+    "sex": {
+      "reported": 43705,
+      "disciplined": 50191
+    },
+    "race": {
+      "reported": 23491,
+      "disciplined": 28677
+    },
+    "disability": {
+      "reported": 9320,
+      "disciplined": 12234
+    }
+  },
+  "national_allegations_school_reporting_coverage_pct": 99.50083022,
+  "source_url": "https://catalog.data.gov/dataset/2015-16-harassment-or-bullying-by-basis-category-civil-rights-data-collection"
+}
